@@ -4,7 +4,7 @@
 
 int main(int argc, char** argv) {
 	
-	printf("Hola Mundo!");
-	
+	std::cout<< "Hola mundo!";
+			
 	return 0;
 }
