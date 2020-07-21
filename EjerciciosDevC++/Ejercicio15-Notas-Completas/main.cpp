@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
 			if (nota >= 91 && nota <= 95){
 			cout << "Obtuviste una A+";	
 			}else {
-				if (nota >= 84 && nota <= 90){
+				if (nota >= 86 && nota <= 90){
 				cout << "Obtuviste una A";
 				}else {
 					if (nota >= 81 && nota <= 85){
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 							if (nota >= 71 && nota <= 75){
 							cout <<"Obtuviste una B";
 							}else {
-								if (nota >= 64 && nota <= 70){
+								if (nota >= 66 && nota <= 70){
 								cout <<"Obtuviste una B-";
 								}else {
 									if (nota >= 61 && nota <= 65){
