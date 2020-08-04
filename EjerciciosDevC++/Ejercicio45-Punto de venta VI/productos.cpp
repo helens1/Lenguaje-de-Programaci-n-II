@@ -60,10 +60,10 @@ void productos(int opcion)
             agregarProducto("1 Te Frio - L 35.00", 1, 35);
             break;
         case 2:
-            agregarProducto("1 Frozen Coffe - L 51.00", 1, 30);
+            agregarProducto("1 Frozen Coffe - L 51.00", 1, 51);
             break;
 		case 3:
-            agregarProducto("1 Iced Latte - L 48.00", 1, 30);
+            agregarProducto("1 Iced Latte - L 48.00", 1, 48);
             break;         
         default:
             {
@@ -96,10 +96,10 @@ void productos(int opcion)
             agregarProducto("1 Muffins - L 25.00", 1, 25);
             break;
         case 2:
-            agregarProducto("1 Snacks Dulces - L 30.00", 1, 5);
+            agregarProducto("1 Snacks Dulces - L 30.00", 1, 30);
             break;
 		case 3:
-            agregarProducto("1 Cupcakes - L 35.00", 1, 5);
+            agregarProducto("1 Cupcakes - L 35.00", 1, 35);
             break;          
         default:
             {

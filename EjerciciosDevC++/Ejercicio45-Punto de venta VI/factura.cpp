@@ -25,8 +25,9 @@ void imprimirFactura()
     cout << "Productos:" << endl;
     cout << listaProductos;
 
+	total = subtotal + (subtotal * 0.15);
+
     cout << endl;
-    total = subtotal + (subtotal * 0.15);
     cout << "Subtotal: " << subtotal;
     cout << endl;
     cout << "Impuesto: " << (subtotal *0.15);
