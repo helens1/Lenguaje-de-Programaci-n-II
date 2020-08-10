@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	cout << endl;
 	cout << endl;
 	
-	cout << "Los numeros de sus dados son: " << endl << endl;
+	cout << "El resultado de sus dados es: " << endl << endl;
 	
 	srand (time(NULL));
 	for (int i=0; i < 1; i ++)
