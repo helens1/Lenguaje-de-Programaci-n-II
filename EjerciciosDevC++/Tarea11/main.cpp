@@ -49,7 +49,7 @@ void leer (int matriz [][5])
 			cout << matriz[i][j] <<" ";
 			
 		}
-		cout << endl;
+
 	}
  	
 	cout << endl ; 
