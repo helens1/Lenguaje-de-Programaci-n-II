@@ -28,7 +28,7 @@ void cargarLibros() {
 	libros[4][1] = "Temas selectos de estructuras de datos";
 	libros[4][2] = "Bill Gates";
 	
-	libros[5][0] = "Algoritmos"; 
+	libros[5][0] = "Algoritmos";
 	libros[5][1] = "Teoria sintactico-gramatical de objetos";
 	libros[5][2] = "Ada Lovelace";
 	
